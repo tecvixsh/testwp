@@ -621,3 +621,6 @@ body.rtl .elementor-1533 .elementor-element.elementor-element-13bf620 .elementor
 .elementor-1533 .elementor-element.elementor-element-ef20d66 {margin-top: 10px;margin-bottom: 0px;}
 .elementor-1533 .elementor-element.elementor-element-3540a1b img {width: 100%;}
 .elementor-1533 .elementor-element.elementor-element-3540a1b > .elementor-widget-container {margin: 9px 0px 0px 0px;}
+@media (max-width:767px) {.elementor-1533 .elementor-element.elementor-element-a288c5c {font-size: 26px;line-height: 1.2em;}
+	.elementor-1533 .elementor-element.elementor-element-a288c5c > .elementor-widget-container {margin: 0px 0px 0px 0px;}
+	.elementor-1533 .elementor-element.elementor-element-1737dc5 > .elementor-widget-container {margin: -40px 0px 0px 0px;}}
